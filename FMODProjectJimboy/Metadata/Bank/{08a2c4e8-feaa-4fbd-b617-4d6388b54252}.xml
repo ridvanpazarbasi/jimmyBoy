@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="MasterBank" id="{08a2c4e8-feaa-4fbd-b617-4d6388b54252}">
+        <relationship name="buildSettings">
+            <destination>{2a777877-e62a-48a6-880f-b4ecc9bc1384}</destination>
+        </relationship>
+        <relationship name="folder">
+            <destination>{90bd6967-0ca5-4fbf-903e-e8b97424e28b}</destination>
+        </relationship>
+    </object>
+    <object class="DesktopBuildSetting" id="{2a777877-e62a-48a6-880f-b4ecc9bc1384}">
+        <relationship name="compressionSettings">
+            <destination>{02ba7af6-e55c-4387-9b69-48f5d3a74446}</destination>
+            <destination>{d4a643d6-3215-43ce-befc-888fb501c151}</destination>
+            <destination>{3d4019c1-13d7-4ad0-83a3-668b170e2c85}</destination>
+        </relationship>
+        <relationship name="activeCompressionSetting">
+            <destination>{02ba7af6-e55c-4387-9b69-48f5d3a74446}</destination>
+        </relationship>
+    </object>
+    <object class="LossyCompressionSetting" id="{02ba7af6-e55c-4387-9b69-48f5d3a74446}">
+        <property name="type">
+            <value>Vorbis</value>
+        </property>
+        <property name="quality">
+            <value>37</value>
+        </property>
+    </object>
+    <object class="PCMCompressionSetting" id="{d4a643d6-3215-43ce-befc-888fb501c151}">
+        <property name="type">
+            <value>ADPCM</value>
+        </property>
+        <property name="sampleRate">
+            <value>48000</value>
+        </property>
+    </object>
+    <object class="PCMCompressionSetting" id="{3d4019c1-13d7-4ad0-83a3-668b170e2c85}">
+        <property name="type">
+            <value>PCM</value>
+        </property>
+        <property name="sampleRate">
+            <value>48000</value>
+        </property>
+    </object>
+</objects>

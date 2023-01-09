@@ -1,0 +1,6 @@
+Temp/ScriptUpdater/957744504/1748239862_BankRefDrawer.cs => Assets/Plugins/Editor/FMOD/BankRefDrawer.cs
+Temp/ScriptUpdater/957744504/426935416_StudioBankLoaderEditor.cs => Assets/Plugins/Editor/FMOD/StudioBankLoaderEditor.cs
+Temp/ScriptUpdater/957744504/441248880_EventRefDrawer.cs => Assets/Plugins/Editor/FMOD/EventRefDrawer.cs
+Temp/ScriptUpdater/957744504/1068860622_CreateEventPopup.cs => Assets/Plugins/Editor/FMOD/CreateEventPopup.cs
+Temp/ScriptUpdater/957744504/414745339_EditorUtils.cs => Assets/Plugins/Editor/FMOD/EditorUtils.cs
+Temp/ScriptUpdater/957744504/1451579701_EventBrowser.cs => Assets/Plugins/Editor/FMOD/EventBrowser.cs

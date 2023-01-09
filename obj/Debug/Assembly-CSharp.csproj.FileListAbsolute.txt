@@ -1,0 +1,42 @@
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\JimBoy\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\JimBoy\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+E:\JimBoy\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+E:\JimBoy\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+E:\JimBoy\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\JimBoy\New Unity Project\obj\Debug\Assembly-CSharp.dll
+E:\JimBoy\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+E:\JimBoy\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\JimBoy\JimBoy\Temp\bin\Debug\Assembly-CSharp.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\JimBoy\JimBoy\Temp\bin\Debug\UnityEditor.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\UnityEngine.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\Mono.Cecil.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\Unity.DataContract.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\JimBoy\JimBoy\Temp\bin\Debug\UnityEngine.xml
+E:\JimBoy\JimBoy\Temp\bin\Debug\UnityEditor.xml
+E:\JimBoy\JimBoy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\JimBoy\JimBoy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\JimBoy\JimBoy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\JimBoy\JimBoy\obj\Debug\Assembly-CSharp.dll
+E:\JimBoy\JimBoy\obj\Debug\Assembly-CSharp.pdb

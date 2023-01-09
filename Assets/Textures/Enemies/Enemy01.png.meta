@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: ddddb0d33023df34bb3b25841f558846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy1_1
+  - first:
+      213: 21300002
+    second: EBullet1_1
+  - first:
+      213: 21300004
+    second: Enemy1_2
+  - first:
+      213: 21300006
+    second: Enemy1_3
+  - first:
+      213: 21300008
+    second: Enemy1_4
+  - first:
+      213: 21300010
+    second: EBullet1_2
+  - first:
+      213: 21300012
+    second: EBullet1_3
+  - first:
+      213: 21300014
+    second: EBullet1_4
+  - first:
+      213: 21300016
+    second: EBullet1_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy1_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 23
+        width: 274
+        height: 291
+      alignment: 9
+      pivot: {x: 0.57342255, y: 0.43995985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBullet1_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 331
+        width: 247
+        height: 303
+      alignment: 9
+      pivot: {x: 0.58316857, y: 0.4297181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 664
+        width: 240
+        height: 331
+      alignment: 9
+      pivot: {x: 0.53299004, y: 0.43213204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 572
+        width: 248
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5530674, y: 0.42974493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBullet1_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 231
+        width: 116
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4520369, y: 0.5382822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBullet1_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 223
+        width: 129
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5323472, y: 0.49034098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBullet1_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 245
+        width: 139
+        height: 124
+      alignment: 9
+      pivot: {x: 0.53002053, y: 0.43269718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBullet1_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 81
+        width: 104
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.45816773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy1_1: 21300000
+      EBullet1_1: 21300002
+      Enemy1_4: 21300008
+      EBullet1_5: 21300016
+      EBullet1_4: 21300014
+      EBullet1_2: 21300010
+      EBullet1_3: 21300012
+      Enemy1_2: 21300004
+      Enemy1_3: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

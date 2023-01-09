@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{6c059d6a-e66f-4042-8bca-7445662d8b85}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.40272108843537413</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Pistol New v4 {665dca25-4f84-4842-8a48-8e8cc47f0235}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{9abf435b-ac48-45da-b5f6-f6edbe2b6731}</destination>
+        </relationship>
+    </object>
+</objects>

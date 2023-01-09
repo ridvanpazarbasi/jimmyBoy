@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{b92049cf-5c28-422e-9de6-26e105f805a3}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>91.350204081632654</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Story Music Idea 1 {c01e5e59-e648-4d7f-8ad0-6dc40b92f572}.mp3</value>
+        </property>
+        <relationship name="container">
+            <destination>{9abf435b-ac48-45da-b5f6-f6edbe2b6731}</destination>
+        </relationship>
+    </object>
+</objects>
